@@ -1,3 +1,3 @@
 # LeetCode
 
-This repository contains my solutions to LeetCode problems.
+This repository contains my solutions to LeetCode problems related to the study plan "Top Iterview 150" -> https://leetcode.com/studyplan/top-interview-150/
